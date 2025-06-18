@@ -4,7 +4,7 @@
 
  # Manual Sentiment Annotation Project
 
-This project involves manually labeling 200+ customer reviews with sentiments (Positive, Negative, Neutral).  
+This project involves manually labeling 5+ customer reviews with sentiments (Positive, Negative, Neutral).  
 The labeled data can be used for training or testing sentiment analysis models.
 
 ## Tools Used
